@@ -1,0 +1,14 @@
+C:\Users\beke.tamas\source\repos\orai\orai\bin\Debug\net8.0\orai.exe
+C:\Users\beke.tamas\source\repos\orai\orai\bin\Debug\net8.0\orai.deps.json
+C:\Users\beke.tamas\source\repos\orai\orai\bin\Debug\net8.0\orai.runtimeconfig.json
+C:\Users\beke.tamas\source\repos\orai\orai\bin\Debug\net8.0\orai.dll
+C:\Users\beke.tamas\source\repos\orai\orai\bin\Debug\net8.0\orai.pdb
+C:\Users\beke.tamas\source\repos\orai\orai\obj\Debug\net8.0\orai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beke.tamas\source\repos\orai\orai\obj\Debug\net8.0\orai.AssemblyInfoInputs.cache
+C:\Users\beke.tamas\source\repos\orai\orai\obj\Debug\net8.0\orai.AssemblyInfo.cs
+C:\Users\beke.tamas\source\repos\orai\orai\obj\Debug\net8.0\orai.csproj.CoreCompileInputs.cache
+C:\Users\beke.tamas\source\repos\orai\orai\obj\Debug\net8.0\orai.dll
+C:\Users\beke.tamas\source\repos\orai\orai\obj\Debug\net8.0\refint\orai.dll
+C:\Users\beke.tamas\source\repos\orai\orai\obj\Debug\net8.0\orai.pdb
+C:\Users\beke.tamas\source\repos\orai\orai\obj\Debug\net8.0\orai.genruntimeconfig.cache
+C:\Users\beke.tamas\source\repos\orai\orai\obj\Debug\net8.0\ref\orai.dll
