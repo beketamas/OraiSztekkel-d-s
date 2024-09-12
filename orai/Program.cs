@@ -25,7 +25,7 @@
                 $"{emberek.MinBy(x => x.GetEletkor).FirstName} {emberek.MinBy(x => x.GetEletkor).LastName}, {emberek.MinBy(x => x.GetEletkor).GetEletkor} éves\n");
             Console.WriteLine($"Legidősebb személy: \n" +
                 $"{emberek.MaxBy(x => x.GetEletkor).FirstName} {emberek.MaxBy(x => x.GetEletkor).LastName}, {emberek.MaxBy(x => x.GetEletkor).GetEletkor} éves\n");
-            Console.WriteLine($"A fájlban szereplő személyek átlagos életkora {String.Format("{0:F2}", emberek.Sum(x => x.GetEletkor) / emberek.Count).Replace(',','.')}");
+            Console.WriteLine($"A fájlban szereplő személyek átlagos életkora {String.Format("{0:F2}", (double)emberek.Sum(x => x.GetEletkor) / (double)emberek.Count).Replace(',','.')}");
 
             List<Dogs> kutyak = File.ReadLines("dogs.csv").Select(x => new Dogs(x)).ToList();
 
